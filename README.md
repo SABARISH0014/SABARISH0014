@@ -64,11 +64,11 @@ I'm **Sabarish**, an MCA student and software developer who enjoys building prac
 
 ## 📊 GitHub
 
+> Building consistently. Learning continuously. Improving every commit.
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SABARISH0014&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABARISH0014&layout=compact&hide_border=true&theme=transparent" height="165"/>
+**37+ Projects** · **AI/ML** · **Cloud** · **Full Stack**
 
 </div>
 
