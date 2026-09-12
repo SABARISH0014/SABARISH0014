@@ -66,7 +66,11 @@ I'm **Sabarish**, an MCA student and software developer who enjoys building prac
 
 <div align="center">
 
-[![Sabarish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SABARISH0014&theme=github-compact&hide_border=true&custom_title=My%20GitHub%20Activity)](https://github.com/SABARISH0014)
+<a href="https://github.com/SABARISH0014">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SABARISH0014&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
+
+</a>
 
 </div>
 
