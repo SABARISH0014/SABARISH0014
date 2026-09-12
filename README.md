@@ -62,21 +62,17 @@ I'm **Sabarish**, an MCA student and software developer who enjoys building prac
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub
 
 <div align="center">
 
-<a href="https://github.com/SABARISH0014">
+<img src="https://github-readme-stats.vercel.app/api?username=SABARISH0014&show_icons=true&hide_border=true&theme=transparent" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SABARISH0014&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABARISH0014&layout=compact&hide_border=true&theme=transparent" height="165"/>
 
 </div>
 
 ---
-
-<div align="center">
 
 ### `BUILD • LEARN • IMPROVE • REPEAT`
 
